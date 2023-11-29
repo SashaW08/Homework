@@ -17,7 +17,7 @@ public class MadLib {
     public int wholeNumberBetween1And4 = 2;
     public String miltonTeacher = "Ms K";
     public String miltonDean = "Mr Larocque";
-    public String letterGrade = "A";
+    public String letterGrade = "F";
     public String season = "winter";
 
     public MadLib(){
